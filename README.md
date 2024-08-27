@@ -2,7 +2,7 @@
 
 Este repositorio se utiliza para realizar un seguimiento de los libros que estoy leyendo estos días, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
-**API:** https://soker90.github.io/libros/api.json
+**API:** https://macm24.github.io/libros2/api.json
 
 Filtrar por puntuación:
 [★☆☆☆☆](https://github.com/soker90/libros/issues?q=is:issue+label:%22rating:+1/5%22+) ·
