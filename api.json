@@ -1,34 +1,32 @@
 [
   {
-    "title": "El Señor de los Anillos no 01/03 La Comunidad del Anillo (edición revisada)",
+    "title": "Dune: House Harkonnen",
     "authors": [
-      "J. R. R. Tolkien"
+      "Brian Herbert",
+      "Kevin J. Anderson"
     ],
-    "publisher": "Grupo Planeta Spain",
-    "publishedDate": "2010-07-15",
-    "description": "Primera entrega de la trilogía. «Este libro es como un relámpago en un cielo claro. Decir que la novela heroica, espléndida, elocuente y desinhibida, ha retornado de pronto en una época de un antirromanticismo casi patológico, sería inadecuado. Para quienes vivimos en esa extraña época, el retorno —y el alivio que nos trae— es sin duda lo más importante. Pero para la historia misma de la novela —una historia que se remonta a la Odisea y a antes de la Odisea— no es un retorno, sino un paso adelante o una revolución: la conquista de un territorio nuevo.» —C.S. Lewis, Time & Tide, 1954 «La obra de Tolkien, difundida en millones de ejemplares, traducida a docenas de lenguas, inspiradora de slogans pintados en las paredes de Nueva York y de Buenos Aires... una coherente mitología de una autenticidad universal creada en pleno siglo veinte.» —George Steiner, Le Monde, 1973",
-    "image": "http://books.google.com/books/content?id=DYmUGGwZ8_oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "es",
-    "averageRating": 4.5,
-    "ratingsCount": 22,
+    "publisher": "Spectra",
+    "publishedDate": "2003-03-18",
+    "description": "Book Two of the Epic Prequel to the Classic Novel Dune—A Major Motion Picture Sequel to the international bestseller Dune: House Atreides Before Dune . . . The epic tale of Duke Leto Atreides and his rise to power . . . The fierce ambitions of his mortal enemy, Baron Vladimir Harkonnen . . . The struggles of the young girl Jessica, the Baron’s secret daughter, under the harsh training of the Sisterhood school . . . The schemes of Shaddam Corrino to create a synthetic spice that may bring unlimited wealth, or cause the collapse of the Spacing Guild . . . And the implausible dream of Planetologist Kynes to turn the desert planet Dune into a paradise, uniting the desperate Fremen into a force unlike anything the Imperium has ever seen . . . Dune: House Harkonnen continues the epic story that lays the foundation for Frank Herbert’s masterpiece Dune, a complex tale of politics, religion, and the rise and fall of dynasties on a galaxy-spanning canvas. Look for the entire prequel series DUNE: HOUSE ATREIDES • DUNE: HOUSE HARKONNEN • DUNE: HOUSE CORRINO",
+    "image": "http://books.google.com/books/content?id=1N1rTDJP55UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 5,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 620,
-    "isbn10": "8445077910",
-    "isbn13": "9788445077917",
+    "pageCount": 754,
+    "isbn10": "0553897837",
+    "isbn13": "9780553897838",
     "googleBooks": {
-      "id": "DYmUGGwZ8_oC",
-      "preview": "http://books.google.com/books?id=DYmUGGwZ8_oC&printsec=frontcover&dq=intitle:El+se%C3%B1or+de+los+anillos&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=DYmUGGwZ8_oC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=DYmUGGwZ8_oC"
+      "id": "1N1rTDJP55UC",
+      "preview": "http://books.google.com/books?id=1N1rTDJP55UC&printsec=frontcover&dq=intitle:Dune&hl=&cd=7&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=1N1rTDJP55UC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=1N1rTDJP55UC"
     },
-    "issueNumber": 2,
+    "issueNumber": 3,
     "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2024-08-27T17:34:14.000Z",
-    "completedAt": "2024-08-27T17:38:26.000Z",
-    "timeToComplete": 252000,
-    "timeToCompleteFormatted": "4 minutes"
+    "state": "reading",
+    "startedAt": "2024-08-27T17:39:34.000Z"
   }
 ]

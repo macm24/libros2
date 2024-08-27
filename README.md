@@ -14,9 +14,9 @@ Filtrar por puntuación:
 ## 📖 Mis lecturas
 
 <!--start:bookshelf-action-->
-### ✅ Completed (1)
+### ⌛ Currently reading (1)
 
-[![El Señor de los Anillos no 01/03 La Comunidad del Anillo (edición revisada)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DDYmUGGwZ8_oC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/macm24/libros2/issues/2 "El Señor de los Anillos no 01/03 La Comunidad del Anillo (edición revisada) by J. R. R. Tolkien completed in 4 minutes on August 2024")
+[![Dune: House Harkonnen](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D1N1rTDJP55UC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/macm24/libros2/issues/3 "Dune: House Harkonnen by Brian Herbert, Kevin J. Anderson")
 
 <!--end:bookshelf-action-->
 
