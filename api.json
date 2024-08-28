@@ -1,5 +1,25 @@
 [
   {
+    "title": "Cartas de Nicodemo",
+    "authors": [
+      "Jan Dobraczynski"
+    ],
+    "publishedDate": "1978",
+    "image": "https://tse2.mm.bing.net/th?q=Cartas%20de%20Nicodemo%20by%20Jan%20Dobraczynski&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "es",
+    "pageCount": 480,
+    "googleBooks": {
+      "id": "HqrzngEACAAJ",
+      "preview": "http://books.google.com/books?id=HqrzngEACAAJ&dq=intitle:Cartas+de+Nicodemo+de+Jan+Dobraczy%C5%84ski&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=HqrzngEACAAJ&dq=intitle:Cartas+de+Nicodemo+de+Jan+Dobraczy%C5%84ski&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Cartas_de_Nicodemo.html?hl=&id=HqrzngEACAAJ"
+    },
+    "issueNumber": 5,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-08-28T09:18:44.000Z"
+  },
+  {
     "title": "Dune: House Harkonnen",
     "authors": [
       "Brian Herbert",
