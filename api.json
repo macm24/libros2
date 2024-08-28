@@ -1,5 +1,27 @@
 [
   {
+    "title": "Libertad vivida",
+    "authors": [
+      "Jutta Burggraf"
+    ],
+    "publishedDate": "2006",
+    "image": "https://tse2.mm.bing.net/th?q=Libertad%20vivida%20by%20Jutta%20Burggraf&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "es",
+    "pageCount": 0,
+    "isbn10": "8432164283",
+    "isbn13": "9788432164286",
+    "googleBooks": {
+      "id": "AqGEyQEACAAJ",
+      "preview": "http://books.google.com/books?id=AqGEyQEACAAJ&dq=intitle:Libertad+vivida+con+la+fuerza+de+la+fe+de+Jutta+Burggraf&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=AqGEyQEACAAJ&dq=intitle:Libertad+vivida+con+la+fuerza+de+la+fe+de+Jutta+Burggraf&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Libertad_vivida.html?hl=&id=AqGEyQEACAAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-08-28T09:23:26.000Z"
+  },
+  {
     "title": "Cartas de Nicodemo",
     "authors": [
       "Jan Dobraczynski"
