@@ -1,5 +1,34 @@
 [
   {
+    "title": "Ratzinger y los filósofos",
+    "authors": [
+      "Alejandro Sada",
+      "Rudy Albino de Assunção",
+      "Tracey Rowland"
+    ],
+    "publisher": "Encuentro",
+    "publishedDate": "2023-09-05",
+    "description": "«El profesor Gottlieb Söhngen, mentor académico y supervisor de la tesis de doctorado de Joseph Ratzinger, estaba convencido de que era imposible prepararse adecuadamente para hacer teología sin contar también con la filosofía: 'No importa cuán largo sea el camino de la filosofía, nunca es una desviación respecto a la teología; más bien, permite a uno embarcarse en el trabajo teológico eficaz más pronto que tarde'. Análogamente, Joseph Ratzinger / Benedicto XVI, defendió la idea de que una filosofía robusta es el marco interior de la teología, y al contrario, una filosofía débil no se corresponde con una teología robusta. La conversación y el diálogo con filósofos clásicos y contemporáneos es una de las características más sobresalientes en el pensamiento del papa teólogo. Una compilación de los interlocutores más relevantes y una visión de conjunto de los tópicos, tal como los que provee este libro, cubre un vacío en la literatura ratzingeriana». (Del prólogo de Rudolph Voderholzer)",
+    "image": "http://books.google.com/books/content?id=TDzVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Philosophy"
+    ],
+    "pageCount": 427,
+    "isbn10": "8413394945",
+    "isbn13": "9788413394947",
+    "googleBooks": {
+      "id": "TDzVEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=TDzVEAAAQBAJ&printsec=frontcover&dq=intitle:Ratzinger+y+los+fil%C3%B3sofos&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=TDzVEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=TDzVEAAAQBAJ"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-08-28T16:59:41.000Z"
+  },
+  {
     "title": "Libertad vivida",
     "authors": [
       "Jutta Burggraf"
