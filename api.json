@@ -1,5 +1,32 @@
 [
   {
+    "title": "MANIAC",
+    "authors": [
+      "Benjamín Labatut"
+    ],
+    "publisher": "Anagrama",
+    "publishedDate": "2023-10-25",
+    "description": "Una novela vertiginosa sobre los límites del pensamiento y los delirios de la razón. Un inquietante tríptico sobre los sueños del siglo XX y las pesadillas del siglo XXI, MANIAC explora los límites de la razón trazando el camino que va desde los fundamentos de las matemáticas hasta los delirios de la inteligencia artificial. Guiado por la enigmática figura de John von Neumann, un moderno Prometeo que hizo más que nadie por crear el mundo que habitamos y adelantar el futuro que se avecina, en este libro Benjamín Labatut se sumerge en las tormentas de fuego de las bombas atómicas, en las mortíferas estrategias de la Guerra Fría y en el nacimiento del universo digital. La obra comienza con un disparo: en 1933 Paul Ehrenfest, físico austriaco y amigo íntimo de Einstein, acabó con la vida de su propio hijo antes de suicidarse, convencido de que el alma de la ciencia había sido corrompida por el mismo mal que impulsaba el surgimiento del nazismo. Algunos de los temores de Ehrenfest se hacen realidad en el personaje central del volumen, el matemático húngaro von Neumann, un ser dotado de un cerebro tan extraordinario que sus colegas lo consideraban el próximo paso en la evolución humana. Durante una meteórica carrera, von Neumann sentó las bases matemáticas de la mecánica cuántica, ayudó a diseñar las bombas nucleares, desarrolló la teoría de los juegos y creó el primer computador moderno. Al final de su vida, ya convertido en un engranaje clave del complejo industrial-militar, dio rienda suelta a un impulso creativo que lo llevó a contemplar ideas que podrían amenazar la primacía de nuestra especie: «Para el progreso no hay cura», dijo tras presagiar la llegada de una singularidad esencial, un punto de inflexión en la historia más allá del cual los asuntos humanos tal como los conocemos no podrían continuar. MANIAC culmina con la batalla entre un hombre y una máquina: Lee Sedol, gran maestro de Go, desafía al programa de inteligencia artificial AlphaGo en cinco agónicos juegos que sirven como advertencia sobre los retos a los que nos tendremos que enfrentar a medida que nuestras creaciones tecnológicas adquieran cada vez mayor independencia. Tras aquel fenómeno inclasificable que fue Un verdor terrible, MANIAC confirma a Benjamín Labatut como una de las voces más originales de la literatura contemporánea.",
+    "image": "http://books.google.com/books/content?id=zH3aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "History"
+    ],
+    "pageCount": 236,
+    "isbn10": "8433918990",
+    "isbn13": "9788433918994",
+    "googleBooks": {
+      "id": "zH3aEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=zH3aEAAAQBAJ&printsec=frontcover&dq=intitle:Maniac+de+Benjam%C3%ADn+Labatut&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=zH3aEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=zH3aEAAAQBAJ"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-09-15T12:00:04.000Z"
+  },
+  {
     "title": "Maniac Magee (Newbery Medal Winner)",
     "authors": [
       "Jerry Spinelli"
